@@ -1,0 +1,7 @@
+C:\Projects\StringReplacer\StringReplacer\bin\Debug\StringReplacer.exe.config
+C:\Projects\StringReplacer\StringReplacer\bin\Debug\StringReplacer.exe
+C:\Projects\StringReplacer\StringReplacer\bin\Debug\StringReplacer.pdb
+C:\Projects\StringReplacer\StringReplacer\obj\Debug\StringReplacer.csprojAssemblyReference.cache
+C:\Projects\StringReplacer\StringReplacer\obj\Debug\StringReplacer.csproj.CoreCompileInputs.cache
+C:\Projects\StringReplacer\StringReplacer\obj\Debug\StringReplacer.exe
+C:\Projects\StringReplacer\StringReplacer\obj\Debug\StringReplacer.pdb
